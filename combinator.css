@@ -1,0 +1,48 @@
+/* Decant selector */
+div p {
+    color:rgb(255, 142, 127);
+}
+/*child selector*/
+
+div > p /{
+    color:royalblue ;
+}
+/*Adjacent Sibling Selector */
+div + p {
+    color: rgb(71, 42, 165);
+}
+/* General Sibling Selector */
+div ~ p {
+    /* color: rgb(196, 255, 198); */
+    color: #144614;
+
+}
+/* color property */
+/*position
+top,left,right,bottom*/
+
+.static {
+    position: static;
+    top:15px;
+}
+
+.relative {
+    bottom: -150px;
+    position: relative;
+    left:125px;
+}
+
+
+.absolute {
+    bottom: -10px;
+    position: absolute;
+    left:25px;
+}
+
+.imparent{
+    position:relative;
+}
+/* img {
+    width: 100%;
+} */
+

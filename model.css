@@ -1,0 +1,43 @@
+.box {
+/* padding: 40px;   
+paddding-top: 30px;
+paddding-left: 30px;
+paddding-right: 30px;*/
+padding: 10px 20px 30px 40px;
+border: 2px dotted rgb(210, 30, 39);
+margin: 20px;
+background-color: cornflowerblue;
+}
+
+.rect1{
+    border:4px solid rgb(237, 116, 100);
+    height: 100px;
+    width: 200px;
+   
+
+}
+
+.rect{
+    border:4px solid rgb(136, 100, 237);
+    height: 50px;
+    width: 100px;
+    margin: 30px;
+
+}
+.rect3{
+    border:2px solid rgb(100, 232, 237);
+   height: 100px;
+   width: 300px;
+   display: inline-block;
+
+}
+.rect4{
+     border:2px solid rgb(100, 232, 237);
+    height: 100px;
+    width: 300px;
+    display: inline-block;
+
+}
+body{
+    background-image: url('F:\\art gallery\\IMG_20200801_162841.JPG');
+}
