@@ -42,7 +42,16 @@ top,left,right,bottom*/
 .imparent{
     position:relative;
 }
-/* img {
+ /*img {
     width: 100%;
 } */
+.topleft{
+
+    color: aqua;
+    position: absolute;
+}
+
+body{
+    margin: 0;
+}
 
